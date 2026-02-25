@@ -26,7 +26,7 @@ I'm focusing on building production-ready, scalable systems.**
 <p align="left">
 <a href="https://github.com/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AboutSelphy" height="30" width="40" /></a>
 <a href="https://twitter.com/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AboutSelphy" height="30" width="40" /></a>
-<a href="https://youtube.com/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AboutSelphy" height="30" width="40" /></a>
+<a href="https://youtube.com/@aboutselphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AboutSelphy" height="30" width="40" /></a>
 <a href="https://discord.gg/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AboutSelphy" height="30" width="40" /></a>
 </p>
 
