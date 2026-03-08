@@ -20,7 +20,7 @@ I'm focusing on building production-ready, scalable systems.**
 
 - ⚡ Fun fact **I automate everything I possibly can.**
 
-- 👨‍💻 All of my projects are available at **[https://aboutselphy.com](https://aboutselphy.com)**
+- 👨‍💻 All of my projects are available at **[https://madebyluke.dev](https://madebyluke.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
