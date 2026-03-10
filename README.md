@@ -2,7 +2,7 @@
 
 ### Junior fullstack developer from Austria
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadeByLukeDEV&label=Profile views&color=0e75b6&style=flat" alt="MadeByLukeDEV" /> </p>
+![](https://komarev.com/ghpvc/?username=MadeByLukeDEV&style=for-the-badg)
 
 - 🔭 I'm currently working on **Building full-stack web applications using Next.js, TypeScript, and modern cloud infrastructure. 
 My focus is on scalable architectures, clean API design, and production-ready deployments.**
