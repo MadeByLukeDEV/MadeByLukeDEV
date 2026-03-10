@@ -2,7 +2,7 @@
 
 ### Junior fullstack developer from Austria
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AboutSelphy&label=Profile views&color=0e75b6&style=flat" alt="AboutSelphy" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadeByLukeDEV&label=Profile views&color=0e75b6&style=flat" alt="MadeByLukeDEV" /> </p>
 
 - 🔭 I'm currently working on **Building full-stack web applications using Next.js, TypeScript, and modern cloud infrastructure. 
 My focus is on scalable architectures, clean API design, and production-ready deployments.**
@@ -24,7 +24,7 @@ I'm focusing on building production-ready, scalable systems.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AboutSelphy" height="30" width="40" /></a>
+<a href="https://github.com/MadeByLukeDEV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AboutSelphy" height="30" width="40" /></a>
 <a href="https://twitter.com/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AboutSelphy" height="30" width="40" /></a>
 <a href="https://youtube.com/@aboutselphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="AboutSelphy" height="30" width="40" /></a>
 <a href="https://discord.gg/AboutSelphy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AboutSelphy" height="30" width="40" /></a>
